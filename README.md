@@ -1,2 +1,3 @@
 # hello-world
-a short description
+A short description.
+Im Dave and learning how to use github
